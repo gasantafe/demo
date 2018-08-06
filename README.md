@@ -1,6 +1,10 @@
-## Página demo dataviz
+## Página demo
 
 You can use the [editor on GitHub](https://github.com/gasantafe/demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+# Header 1
+## Header 2
+### Header 3
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
